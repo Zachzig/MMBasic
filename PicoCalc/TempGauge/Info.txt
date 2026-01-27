@@ -1,0 +1,5 @@
+Temperature gauge for PicoCalc
+V1.0 30.09.2025
+Peter Doerwald
+
+Temperature is measured with external DS18B20 at PIN GP2
