@@ -2,3 +2,5 @@ German Wordle for PicoCalc
 Rev 1.0.0 William M Leue 9-Jan-2022 - Main program
 Rev D1.0.0 Peter Doerwald - german and adaption to PicoCalc
 27.01.2026
+
+Tested with V6.00.03
