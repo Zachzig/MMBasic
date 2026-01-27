@@ -1,4 +1,5 @@
 ' 4 GEWINNT GRAFIK-EDITION fuer PicoCalc
+' Getestet mit V6.00.03
 ' 01/2026 P.Doerwald and Gemini  
 ' V1.0
 ' ------------------------------------
@@ -286,3 +287,4 @@ Init:
   win = 0
 Return  
   
+
