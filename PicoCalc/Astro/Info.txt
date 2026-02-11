@@ -1,0 +1,3 @@
+Solar System Object Finder
+V1.0 11.02.2026
+need V6.02.00
